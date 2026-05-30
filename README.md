@@ -69,7 +69,7 @@ Follow these simple steps in your Windows PowerShell:
 If any step fails, copy the full error text and share it — I will help you fix it.
 ## Final note (business framing)
 
-This is a concise, business-oriented demonstration of how storage can add commercial value to PV. If you want, I can prepare a short one-page slide summarizing the revenue uplift and key assumptions.
+This is a concise, business-oriented demonstration of how storage can add commercial value to PV.
 
 ***
 
