@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
-
+bquxjob_379ac21_19e273f4940.csv
+energy-charts_Öffentliche_Nettostromerzeugung_in_Polen_2025.csv
 # Virtual environments
 .venv
